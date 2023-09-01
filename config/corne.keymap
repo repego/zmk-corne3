@@ -56,5 +56,5 @@
 };
 
 &led_strip {
-    chain-length = <33>;
+    chain-length = <33>; //one on the right side did light up
 };
